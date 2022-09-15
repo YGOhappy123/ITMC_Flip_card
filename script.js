@@ -69,8 +69,6 @@ class MixOrMatch {
         this.hideCards()
         this.ticker.innerText = this.totalClick
         this.timer.timeRemaining = this.timeRemaining
-
-        console.log(this)
     }
 
     hideCards () {
